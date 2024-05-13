@@ -1,4 +1,5 @@
 uint2 waiting = 0        # режим ожидания команды
 uint2 done = 1            # команда выполнена
 uint2 error = 2            # ошибка выполнения команды
+uint8 value
 @sealed
